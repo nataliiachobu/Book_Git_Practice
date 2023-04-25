@@ -3,4 +3,4 @@ welcome to my story
 
 
 Once upon a time there was a girl by name Java. She loves to do math and solve problems.
-Suddenly aliens invated the planet Earth and Java had to write a program with If statements so maybe they wouldn't get on our planet ,maybe they would stop by on Mercury or Neptun ???? Made changes from github.  
+Suddenly aliens invaded the planet Earth and Java had to write a program with If statements so maybe they wouldn't get on our planet ,maybe they would stop by on Mercury or Neptun ???? Made changes from github.
